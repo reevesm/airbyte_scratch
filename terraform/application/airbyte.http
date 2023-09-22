@@ -1,0 +1,7 @@
+### Airbyte Workspaces - GET Workspaces ###
+
+# Send a GET request to the /workspaces endpoint to retrieve a list of workspaces.
+GET http://localhost:8006/v1/workspaces
+Authorization: Basic airbyte password
+
+
